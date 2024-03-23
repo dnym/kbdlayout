@@ -1,0 +1,37 @@
+partial alphanumeric_keys
+xkb_symbols "chiral" {
+    include "se(se)"
+   
+    key <AD01>	{ [         q,          Q,           slash,  guillemotright ]	};
+    key <AD02>	{ [         w,          W,      backslash,      guillemotleft ]	};
+    key <AD03>	{ [         e,          E,     bracketleft,         leftdoublequotemark ]	};
+    key <AD04>	{ [         r,          R,   bracketright,   rightdoublequotemark ]	};
+    key <AD05>	{ [         t,          T,        exclam,        thorn ]	};
+    key <AD07>	{ [         u,          U,    percent,      uparrow ]	};
+    key <AD08>	{ [         i,          I,   at,     idotless ]	};
+    key <AD09>	{ [         o,          O,           dead_macron,           OE ]	};
+    key <AD10>	{ [         p,          P,        grave,        THORN ]	};
+
+    key <AC01>	{ [         a,          A,  braceleft,    leftsinglequotemark ]	};
+    key <AC02>	{ [         s,          S,       braceright,      rightsinglequotemark ]	};
+    key <AC03>	{ [         d,          D,          parenleft,          leftdoublequotemark ]	};
+    key <AC04>	{ [         f,          F,      parenright,  rightdoublequotemark ]	};
+    key <AC05>	{ [         g,          G,          minus,          ENG ]	};
+    key <AC06>	{ [         h,          H,      ampersand,      Hstroke ]	};
+    key <AC07>	{ [         j,          J,    comma,    dead_horn ] };
+    key <AC08>	{ [         k,          K,          semicolon,    ampersand ]	};
+    key <AC09>	{ [         l,          L,      bar,      Lstroke ]	};
+    key <AC10>	{ [odiaeresis, Odiaeresis,       asciitilde,     hyphen ]	};
+    key <AC11>	{ [adiaeresis, Adiaeresis,           question,           AE ]	};
+
+    key <AB01>	{ [         z,          Z, colon,        less ]	};
+    key <AB02>	{ [         x,          X, underscore,    minutes ]	};
+    key <AB03>	{ [         c,          C,    less,    seconds ]	};
+    key <AB04>	{ [         v,          V, greater, leftsinglequotemark ]	};
+    key <AB05>	{ [         b,          B, asterisk, rightsinglequotemark ] };
+    key <AB06>	{ [         n,          N,            plus,            nobreakspace ]	};
+    key <AB07>	{ [         m,          M,           equal,    dead_macron ]	};
+    key <AB08>	{ [     comma,  semicolon, numbersign,  dead_acute ]	};
+    key <AB09>	{ [    period,   colon, quotedbl, dead_caron ]	};
+    key <AB10>	{ [     minus, underscore, asciicircum, dead_grave ] };
+};

@@ -1,2 +1,2 @@
 # kbdlayout
-My Swedish based keyboard layout
+My Swedish based keyboard layout. I did a frequency analysis for some different texts including some source code, and tried to add the most-used of the harder-to-reach characters in nice places, with paired characters also next to each other on the same level. Then I added some extra stuff just-in-case, and combination characters for pinyin Chinese (and romanizing Japanese). The left thumb on `AltGr` is the real MVP here.

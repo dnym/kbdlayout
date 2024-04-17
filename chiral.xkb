@@ -11,6 +11,7 @@ xkb_symbols "chiral" {
     key <AD08>	{ [         i,          I,           at,             idotless ] };
     key <AD09>	{ [         o,          O,  dead_macron,                   OE ] };
     key <AD10>	{ [         p,          P,        grave,                THORN ] };
+    key <AD11>	{ [     aring,      Aring,   apostrophe,       dead_abovering ] };
 
     key <AC01>	{ [         a,          A,    braceleft,  leftsinglequotemark ] };
     key <AC02>	{ [         s,          S,   braceright, rightsinglequotemark ]	};

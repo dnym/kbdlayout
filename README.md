@@ -1,5 +1,5 @@
 # kbdlayout
-My Swedish based keyboard layout. I did a frequency analysis for some different texts including some source code, and tried to add the most-used of the harder-to-reach characters in nice places, with paired characters also next to each other on the same level. Then I added some extra stuff just-in-case, and combination characters for pinyin Chinese (and romanizing Japanese). The left thumb on `AltGr` is the real MVP here.
+My Swedish based keyboard layout. I did a frequency analysis for some different texts including some source code, and tried to add the most-used of the harder-to-reach characters in nice places, with paired characters also next to each other on the same level. Then I added some extra stuff just-in-case, and combination characters for pinyin Chinese (and romanizing Japanese). The right thumb on `AltGr` is the real MVP here.
 
 There is room to spare; I considered adding some more keys, like mathematical symbols, but it's probably best to use some [compose key](https://en.wikipedia.org/wiki/Compose_key) functionality – [WinCompose](https://github.com/SamHocevar/wincompose) looks good for Windows.
 
